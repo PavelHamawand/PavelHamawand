@@ -11,4 +11,10 @@ Soon-to-be graduate in Computer Engineering from Lund University of Technology (
 ![](https://nirzak-streak-stats.vercel.app/?user=PavelHamawand&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelHamawand&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavelhamawand/pavelhamawand/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavelhamawand/pavelhamawand/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pavelhamawand/pavelhamawand/output/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
