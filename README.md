@@ -1,4 +1,4 @@
-# Hello World!, I'm Pavel 👋🏼:
+# Hello World! I'm Pavel 👋🏼:
 
 # 💫 About Me:
 Soon-to-be graduate in Computer Engineering from Lund University of Technology (LTH), <br>with studies concluding in spring/summer 2025. <br>Skilled in programming and problem-solving, with experience across various industries. <br>A hardworking, determined, and collaborative individual who thrives in team environments.<br>
