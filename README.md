@@ -33,8 +33,8 @@ I ship production AI applications end-to-end — from prototype to paying custom
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**AI / LLM:** Claude API · OpenAI · Hugging Face · Prompt engineering · RAG · Claude Vision · Azure AI Services
-**Backend:** Python · FastAPI · Node.js · Supabase · PostgreSQL · REST APIs · Web scraping · ETL
+**AI / LLM:** Claude API · OpenAI · Hugging Face · Prompt engineering · Azure AI Services
+**Backend:** Python · FastAPI · Node.js · Supabase · PostgreSQL · REST APIs · Web scraping · ETL · Java · C# · C++
 **Frontend:** TypeScript · React · Next.js · React Native · Expo
 **DevOps:** Git · Vercel · Railway · Azure · CI/CD
 
